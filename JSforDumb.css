@@ -1,0 +1,40 @@
+/*
+.paragraph-1 {
+    color: green;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.paragraph-2 {
+    text-align: center;
+    text-transform: uppercase;
+}*/
+
+
+.red-btn{
+    background: red;
+    height: 100px;
+    width: 250px;
+    font-size: 16px;
+    color: white;
+}
+
+.green-btn{
+    background: green;
+    height: 100px;
+    width: 250px;
+    font-size: 16px;
+    color: white;
+}
+
+.yellow-btn{
+    background: yellow;
+    height: 100px;
+    width: 250px;
+    font-size: 16px;
+    color: white;
+}
+
+.hide-paragraph{
+    display: none;
+}
